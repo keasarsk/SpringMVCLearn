@@ -12,8 +12,6 @@
         <module>springmvc-01-servlet</module>
         <module>springmvc-02-hello</module>
         <module>springmvc-03-hello-annotation</module>
-        <module>SSM</module>
-        <module>ssm</module>
     </modules>
 
     <properties>
